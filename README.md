@@ -1,0 +1,2 @@
+# yepasoft-legal
+privacy
